@@ -1,0 +1,16 @@
+Camry SEDAN TOYOTA Riyadh White 2,700.000000 27000 2017 0 Available
+Camry SEDAN TOYOTA Riyadh White 3,900.000000 14351 2019 1 Available
+Camry SEDAN TOYOTA Riyadh Blue 1,300.000000 160000 2006 2 Available
+Camry SEDAN TOYOTA Khobar White 4,300.000000 5000 2020 3 Available
+Camry SEDAN TOYOTA Riyadh Red 5,000.000000 500 2020 4 Available
+Camry SEDAN TOYOTA Riyadh Black 2,400.000000 37000 2016 5 Available
+Yaris SEDAN TOYOTA Riyadh White 2,500.000000 100000 2017 6 Available
+Yaris SEDAN TOYOTA Riyadh Silver 2,900.000000 13000 2017 7 Available
+Yaris SEDAN TOYOTA Riyadh White 2,700.000000 27000 2017 8 Available
+Yaris SEDAN TOYOTA Riyadh White 2,700.000000 27000 2017 9 Available
+Land-Cruiser SUV TOYOTA Riyadh Black 6,100.000000 1342 2021 10 Available
+Land-Cruiser SUV TOYOTA Riyadh Silver 6,050.000000 11006 2015 11 Available
+Land-Cruiser SUV TOYOTA Riyadh Red 8,000.000000 0 2021 12 Available
+Land-Cruiser SUV TOYOTA Riyadh Gold 5,200.000000 30000 2019 13 Available
+Land-Cruiser SUV TOYOTA Riyadh White 4,500.000000 200000 2006 14 Available
+Land-Cruiser SUV TOYOTA Riyadh Black 5,100.000000 40000 2011 15 Available
